@@ -1,0 +1,1243 @@
+# Kanji
+- [ ] Add all JLPT N5 Kanji with their details
+	- [ ] 1. 日
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 2. 一
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 3. 国
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 4. 人
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 5. 年
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 6. 大
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 7. 十
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 8. 二
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 9. 本
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 10. 中
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 11. 長
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 12. 出
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 13. 三
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 14. 時
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 15. 行
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 16. 見
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 17. 月
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 18. 分
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 19. 後
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 20. 前
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 21. 生
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 22. 五
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 23. 間
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 24. 上
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 25. 東
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 26. 四
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 27. 今
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 28. 金
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 29. 九
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 30. 入
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 31. 学
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 32. 高
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 33. 円
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 34. 子
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 35. 外
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 36. 八
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 37. 六
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 38. 下
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 39. 来
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 40. 気
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 41. 小
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 42. 七
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 43. 山
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 44. 話
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 45. 女
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 46. 北
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 47. 午
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 48. 百
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 49. 書
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 50. 先
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 51. 名
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 52. 川
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 53. 千
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 54. 水
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 55. 半
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 56. 男
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 57. 西
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 58. 電
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+	- [ ] 59. 校
+		- [ ] Meaning
+		- [ ] Pronounciation
+			- [ ] Onyomi
+			- [ ] Kunyomi
+		- [ ] Stroke Order
+		- [ ] Common Words
+			- [ ] Onyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Kunyomi Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+			- [ ] Special Readings
+				- [ ] Japanese Words (Kanji, Hiragana)
+				- [ ] English Meaning
+				- [ ] Hepburn Romanization
+		- [ ] Example Sentences
+		- [ ] Add Source!
+
+
