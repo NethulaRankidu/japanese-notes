@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanji.md",
+                "file": "Small work-in-progress guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kanji"
+              "title": "Small work-in-progress guide"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "249cbf99e7213527",
   "lastOpenFiles": [
+    "Kanji.md",
+    "Small work-in-progress guide.md",
     "README.md",
     "assets/book-extraction/README.md",
     "Raw Textbook Extraction.md",
