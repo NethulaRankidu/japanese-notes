@@ -21,3 +21,4 @@ This is a personal learning hub for anyone—students, self-learners, or fellow 
 	- For links (Check the bottom of a section)
 	- [For books](https://drive.google.com/drive/folders/1xIZ9oARXz4QyvtlIDUdHpxa6gsirnUSc?usp=sharing)
 - To read the files, you are recommended to clone the repo yourself, use a markdown reader like Obsidian and use the [obsidian-furigana](https://publish.obsidian.md/hub/02+-+Community+Expansions/02.05+All+Community+Expansions/Plugins/obsidian-furigana) or similar plugin.
+- 

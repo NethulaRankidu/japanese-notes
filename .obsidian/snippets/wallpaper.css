@@ -1,0 +1,19 @@
+body {
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color:white;
+}
+
+/* Optional: make note content slightly transparent */
+.theme-dark .markdown-preview-view,
+.theme-dark .markdown-source-view {
+  background-image: url("https://images.wallpapersden.com/image/download/hd-anime-monochrome-man-in-rain_bmdmaGeUmZqaraWkpJRmbmdlrWZlbWU.jpg");
+  background-size:cover;
+}
+
+.theme-light .markdown-preview-view,
+.theme-light .markdown-source-view {
+  background-color: rgba(255, 255, 255, 0.7);
+}
