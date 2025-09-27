@@ -1,7 +1,5 @@
 {
-  "enabledCssSnippets": [
-    "wallpaper",
-    "jp-font"
-  ],
-  "nativeMenus": false
+  "enabledCssSnippets": [],
+  "nativeMenus": false,
+  "cssTheme": "Obsidian Nord"
 }
