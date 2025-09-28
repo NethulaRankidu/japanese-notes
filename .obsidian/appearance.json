@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [],
   "nativeMenus": false,
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Obsidian Nord",
+  "textFontFamily": "Noto Sans CJK JP",
+  "interfaceFontFamily": "Roboto Condensed"
 }

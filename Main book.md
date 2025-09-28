@@ -16,8 +16,14 @@ By wintergreen6631
 - 9月15日 - Added |Kanji|Kana|Romaji|English| row above to the vocabulary tables.
 - 9月15日 - Fixed capitalization issues
 - 9月15日 - Added ‘Hours’ and ‘Minutes’ in ‘Time’ to ‘Vocabulary’ section
+- 9月28日 - Added ‘Colors’ to ‘Vocabulary’ section
+
+<div style="page-break-after: always;"></div>
+
 # What is 日本語？
 Japanese (日本語 Nihongo) is the language spoken by about 125 million people, mainly in Japan. It uses a unique writing system that combines three scripts: kanji (Chinese-origin characters that represent meaning), hiragana (a syllabary for grammar and native words), and katakana (a syllabary mainly for foreign words and emphasis). In everyday writing, all three scripts are mixed together. The language follows a subject–object–verb word order, meaning the verb usually comes at the end of the sentence, and it relies heavily on particles (like wa, o, ni) to mark the role of words in a sentence. Japanese also has several levels of politeness, ranging from casual to very formal, which change the way words are used depending on the situation. Unlike English, it doesn’t use plural forms or distinct future tense verb conjugations; instead, context and markers give meaning.
+<div style="page-break-after: always;"></div>
+
 # Alphabets in 日本語
 There are 3 main alphabets in Japanese Language.
 1. Hiragana (ひらがな)
@@ -31,6 +37,8 @@ There are 3 main alphabets in Japanese Language.
 
 These three alphabets are mixed together in day-to-day written communication in Japanese.
 (Hiragana and Katakana Alphabets will be shown in next pages)
+
+<div style="page-break-after: always;"></div>
 
 ## Hiragana (ひらがな)
 ### Base characters
@@ -91,6 +99,8 @@ Examples:-
 - っか - kka
 - った - tta
 - っち - cchi
+
+<div style="page-break-after: always;"></div>
 
 ## Katakana (カタカナ) 
 ### Base characters
@@ -175,6 +185,8 @@ Examples:-
 |          |          |         | ミェ (mye)  |          |
 |          |          |         | リェ (rye)  |          |
 
+<div style="page-break-after: always;"></div>
+
 # Vocabulary
 ## Greetings / Basic Expressions
 
@@ -195,6 +207,8 @@ Examples:-
 | 行ってらっしゃい  | いってらっしゃい | itterasshai   | take care (reply to above) |
 |           | ただいま     | tadaima       | I’m home                   |
 |           | おかえり     | okaeri        | welcome home               |
+<div style="page-break-after: always;"></div>
+
 ## Numbers
 
 | **Kanji** | **Kana** | **Romaji** | **English** |
@@ -219,6 +233,9 @@ Examples:-
 | 百万        | ひゃくまん    | hyaku man  | 1,000,000 (106)   |
 | 千万        | せんまん     | sen man    | 10,000,000 (107)  |
 | 億         | おく       | oku        | 100,000,000 (108) |
+Ways to write them combined can be found in [[#Numbers]]
+<div style="page-break-after: always;"></div>
+
 ## Time
 ### Hours
 
@@ -276,7 +293,7 @@ Examples:-
 | ４０秒       | よんじゅうびょう | yonjuu-byou | 40 seconds  |
 | ５０秒       | ごじゅうびょう  | gojuu-byou  | 50 seconds  |
 
-Ways to write them combined can be found in[[#Grammar & Things to Know]]
+<div style="page-break-after: always;"></div>
 
 ## Family
 ### Immediate Family
@@ -305,7 +322,6 @@ Ways to write them combined can be found in[[#Grammar & Things to Know]]
 | 妹         | いもうと     | imouto     | younger sister (humble)   |
 | 息子        | むすこ      | musuko     | son (humble)              |
 | 娘         | むすめ      | musume     | daughter (humble)         |
-
 ### Extended Family
 
 | **Kanji**   | **Kana** | **Romaji** | **English**             |
@@ -323,6 +339,8 @@ Ways to write them combined can be found in[[#Grammar & Things to Know]]
 | 孫息子         | まごむすこ    | magomusuko | grandson (humble)       |
 | 孫娘          | まごむすめ    | magomusume | granddaughter (humble)  |
 Notes can be found in [[#Family Members]]
+<div style="page-break-after: always;"></div>
+
 ## Feelings
 
 | **Kanji** | **Kana**     | **Romaji**  | **English**            |
@@ -350,11 +368,95 @@ Notes can be found in [[#Family Members]]
 |           | クヨクヨ<br>くよくよ | kuyokuyo    | worrying               |
 |           | イライラ<br>いらいら | iraira      | irritated              |
 |           | ムカムカ<br>むかむか | mukamuka    | upset / angry          |
+<div style="page-break-after: always;"></div>
+
+## Colors
+### How to say color/colorful in Japanese
+
+| Kana    | Romaji          | Kanji       | English  |
+| ------- | --------------- | ----------- | -------- |
+| いろ      | Iro             | 色           | Color    |
+| いろあい    | Iroai           | 色合い         | Color    |
+| しきさい    | Shikisai        | 色彩          | Color    |
+| いろとりどり  | Iro tori dori   | 色とりどり、色取り取り | Colorful |
+| しきさいゆたか | Shikisai yutaka | 色彩豊か        | Colorful |
+Also, カタカナ (Katakana | 片仮名) color words using original English sounds are typical in Japan nowadays.
+
+| Kana | Romaji   | English  |
+| ---- | -------- | -------- |
+| カラー  | Karaa    | Color    |
+| カラフル | Karafuru | Colorful |
+### Color Names
+
+| Kana         | Romaji           | Kanji     | English     |
+| ------------ | ---------------- | --------- | ----------- |
+| あか           | Aka              | 赤         | Red         |
+| あお           | Ao               | 青         | Blue        |
+| き            | Ki               | 黄         | Yellow      |
+| だいだい<br>オレンジ | Daidai<br>Orenji | 橙<br>オレンジ | Orange      |
+| みどり          | Midori           | 緑         | Green       |
+| きみどり         | Ki midori        | 黄緑        | Light green |
+| むらさき         | Murasaki         | 紫         | Purple      |
+| ももいろ<br>ピンク  | Momo iro<br>Pink | 桃色<br>ピンク | Pink        |
+| みずいろ         | Mizu iro         | 水色        | Light blue  |
+| こん           | Kon              | 紺         | Navy blue   |
+| はい           | Hai              | 灰         | Gray        |
+| ちゃ           | Cha              | 茶         | Brown       |
+| しろ           | Shiro            | 白         | White       |
+| くろ           | Kuro             | 黒         | Black       |
+|              | Kin'iro          | 金色        | Golden      |
+You can add いろ (Iro | 色 | Color) into some color words.
+
+| Kana   | Romaji     | Kanji | English |
+| ------ | ---------- | ----- | ------- |
+| きいろ    | Ki iro     | 黄色    | Yellow  |
+| みどりいろ  | Midori iro | 緑色    | Green   |
+| オレンジいろ | Orenji iro | オレンジ色 | Orange  |
+| はいいろ   | Hai iro    | 灰色    | Gray    |
+
+Also, カタカナ (Katakana | 片仮名) color words using original English sounds are typical in Japan nowadays.
+
+| Kana  | Romaji  | English |
+| ----- | ------- | ------- |
+| グレー   | Guree   | Gray    |
+| ベージュ  | Beeju   | Beige   |
+| アイボリー | Aiborii | Ivory   |
+| カーキ   | Kaaki   | Khaki   |
+### Describing Colors and Shades in Japanese
+
+#### Using Adjectives and Quasi-Adjectives
+
+When talking about specific shades, these are the words that you should use.
+
+| Kana  | Romaji  | Kanji | English               |
+| ----- | ------- | ----- | --------------------- |
+| うすい   | Usui    | 薄い    | pale, light, delicate |
+| あわい   | Awai    | 淡い    | pale, light, delicate |
+| こい    | Koi     | 濃い    | dark, deep, strong    |
+| あかるい  | Akarui  | 明るい   | bright, vivid         |
+| くらい   | Kurai   | 暗い    | dark, shade, strong   |
+| あざやかな | Azayaka | 鮮やかな  | clear, vivid          |
+| くすんだ  | Kusunda | 燻んだ   | dull, dark            |
+### Describing Colors and Shades in Japanese
+
+#### Using Adjectives and Quasi-Adjectives
+
+When talking about specific shades, these are the words that you should use.
+
+| Kana  | Romaji  | Kanji | English               |
+| ----- | ------- | ----- | --------------------- |
+| うすい   | Usui    | 薄い    | pale, light, delicate |
+| あわい   | Awai    | 淡い    | pale, light, delicate |
+| こい    | Koi     | 濃い    | dark, deep, strong    |
+| あかるい  | Akarui  | 明るい   | bright, vivid         |
+| くらい   | Kurai   | 暗い    | dark, shade, strong   |
+| あざやかな | Azayaka | 鮮やかな  | clear, vivid          |
+| くすんだ  | Kusunda | 燻んだ   | dull, dark            |
+
+<div style="page-break-after: always;"></div>
 
 # Grammar & Things to Know
-
 ## Numbers
-
 We can combine these to write numbers in japanese.
 Examples:-
 - 百 十 三 - 113 ($100 + 10 + 3$)
@@ -364,7 +466,6 @@ Examples:-
 Note: Japanese doesn’t use spaces in the words or sentences. The spaces were added for easier reading and learning.
 
 ## Family Members
-
 - In uncle and aunt, using 叔 indicates that he/she is younger, while using 伯 indicates he/she is older. Even if the words are different, the pronunciation is kept the same. In casual conversations and such, you can use the hiragana version without a problem unless you want to be precise.
 	- 叔父さん - younger uncle
 	- 伯父さん - older uncle
@@ -375,6 +476,8 @@ Note: Japanese doesn’t use spaces in the words or sentences. The spaces were a
 		- 奥さんです。 ☒ - Sounds odd; “okusan” is used for someone else’s wife.
 		- 妻です。 ☑ - humble and formal, correct.
 
+<div style="page-break-after: always;"></div>
+
 # References
 
 1. [https://www.japanesewithanime.com/2017/12/compound-kana.html](https://www.japanesewithanime.com/2017/12/compound-kana.html "https://www.japanesewithanime.com/2017/12/compound-kana.html")
@@ -382,4 +485,4 @@ Note: Japanese doesn’t use spaces in the words or sentences. The spaces were a
 3. [https://mochidemy.com/support/family-in-japanese/](https://mochidemy.com/support/family-in-japanese/ "https://mochidemy.com/support/family-in-japanese/")
 4. [https://kanji123.org/blog/family-injapanese/](https://kanji123.org/blog/family-injapanese/ "https://kanji123.org/blog/family-injapanese/") 
 5. [https://jpn-language.com/learn-japanese/feelings](https://jpn-language.com/learn-japanese/feelings "https://jpn-language.com/learn-japanese/feelings") 
-- Font used in .docx - [https://github.com/ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font "https://github.com/ButTaiwan/genryu-font")
+6. [https://90dayjapanese.com/colors-in-japanese/](https://90dayjapanese.com/colors-in-japanese/)
