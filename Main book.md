@@ -195,105 +195,90 @@ Examples:-
 | 行ってらっしゃい  | いってらっしゃい | itterasshai   | take care (reply to above) |
 |           | ただいま     | tadaima       | I’m home                   |
 |           | おかえり     | okaeri        | welcome home               |
-
 ## Numbers
 
-|   |   |   |   |
-|---|---|---|---|
-|**Kanji**|**Kana**|**Romaji**|**English**|
-|一|いち|ichi|one|
-|二|に|ni|two|
-|三|さん|san|three|
-|四|よん/し|yon/shi|four|
-|五|ご|go|five|
-|六|ろく|roku|six|
-|七|なな/しち|nana|seven|
-|八|はち|hachi|eight|
-|九|きゅう|kyuu|nine|
+| **Kanji** | **Kana** | **Romaji** | **English** |
+| --------- | -------- | ---------- | ----------- |
+| 一         | いち       | ichi       | one         |
+| 二         | に        | ni         | two         |
+| 三         | さん       | san        | three       |
+| 四         | よん/し     | yon/shi    | four        |
+| 五         | ご        | go         | five        |
+| 六         | ろく       | roku       | six         |
+| 七         | なな/しち    | nana       | seven       |
+| 八         | はち       | hachi      | eight       |
+| 九         | きゅう      | kyuu       | nine        |
 
-|   |   |   |   |
-|---|---|---|---|
-|**Kanji**|**Kana**|**Romaji**|**English**|
-|十|じゅう|juu|10 (101)|
-|百|ひゃく|hyaku|100 (102)|
-|千|せん|sen|1,000 (103)|
-|万|まん|man|10,000 (104)|
-|十万|じゅうまん|juu man|100,000 (105)|
-|百万|ひゃくまん|hyaku man|1,000,000 (106)|
-|千万|せんまん|sen man|10,000,000 (107)|
-|億|おく|oku|100,000,000 (108)|
-
- 
-
+| **Kanji** | **Kana** | **Romaji** | **English**       |
+| --------- | -------- | ---------- | ----------------- |
+| 十         | じゅう      | juu        | 10 (101)          |
+| 百         | ひゃく      | hyaku      | 100 (102)         |
+| 千         | せん       | sen        | 1,000 (103)       |
+| 万         | まん       | man        | 10,000 (104)      |
+| 十万        | じゅうまん    | juu man    | 100,000 (105)     |
+| 百万        | ひゃくまん    | hyaku man  | 1,000,000 (106)   |
+| 千万        | せんまん     | sen man    | 10,000,000 (107)  |
+| 億         | おく       | oku        | 100,000,000 (108) |
 ## Time
-
 ### Hours
 
-|   |   |   |   |
-|---|---|---|---|
-|**Kanji**|**Kana**|**Romaji**|**English**|
-|時|じ|ji|hour|
-|１時|いちじ|ichi-ji|1 o’clock|
-|２時|にじ|ni-ji|2 o’clock|
-|３時|さんじ|san-ji|3 o’clock|
-|４時|よじ|yo-ji|4 o’clock|
-|５時|ごじ|go-ji|5 o’clock|
-|６時|ろくじ|roku-ji|6 o’clock|
-|７時|しちじ|shichi-ji|7 o’clock|
-|８時|はちじ|hachi-ji|8 o’clock|
-|９時|くじ|ku-ji|9 o’clock|
-|１０時|じゅうじ|juu-ji|10 o’clock|
-|１１時|じゅういちじ|juuichi-ji|11 o’clock|
-|１２時|じゅうにじ|juuni-ji|12 o’clock|
-
+| **Kanji** | **Kana** | **Romaji** | **English** |
+| --------- | -------- | ---------- | ----------- |
+| 時         | じ        | ji         | hour        |
+| １時        | いちじ      | ichi-ji    | 1 o’clock   |
+| ２時        | にじ       | ni-ji      | 2 o’clock   |
+| ３時        | さんじ      | san-ji     | 3 o’clock   |
+| ４時        | よじ       | yo-ji      | 4 o’clock   |
+| ５時        | ごじ       | go-ji      | 5 o’clock   |
+| ６時        | ろくじ      | roku-ji    | 6 o’clock   |
+| ７時        | しちじ      | shichi-ji  | 7 o’clock   |
+| ８時        | はちじ      | hachi-ji   | 8 o’clock   |
+| ９時        | くじ       | ku-ji      | 9 o’clock   |
+| １０時       | じゅうじ     | juu-ji     | 10 o’clock  |
+| １１時       | じゅういちじ   | juuichi-ji | 11 o’clock  |
+| １２時       | じゅうにじ    | juuni-ji   | 12 o’clock  |
 ### Minutes
 
-|   |   |   |   |
-|---|---|---|---|
-|**Kanji**|**Kana**|**Romaji**|**English**|
-|分|ふん / ぷん|Fun / pun|minute|
-|１分|いっぷん|ippun|1 minute|
-|２分|にふん|nifun|2 minutes|
-|３分|さんぷん|sanpun|3 minutes|
-|４分|よんぷん|yonpun|4 minutes|
-|５分|ごふん|gofun|5 minutes|
-|６分|ろっぷん|roppun|6 minutes|
-|７分|ななふん|nanafun|7 minutes|
-|８分|はっぷん|happun|8 minutes|
-|９分|きゅうふん|kyuufun|9 minutes|
-|１０分|じゅっぷん じっぷん|Juppun<br><br>jippun|10 minutes|
-|２０分|にじゅっぷん<br><br>にじっぷん|Nijuppun<br><br>nijippun|20 minutes|
-|３０分|さんじゅっぷん<br><br>さんじっぷん|Sanjuppun<br><br>sanjippun|30 minutes|
-|４０分|よんじゅっぷん<br><br>よんじっぷん|Yonjippun<br><br>yonjuppun|40 minutes|
-|５０分|ごじゅっぷん<br><br>ごじっぷん|Gojuppun<br><br>gojippun|50 minutes|
-
+| **Kanji** | **Kana**          | **Romaji**             | **English** |
+| --------- | ----------------- | ---------------------- | ----------- |
+| 分         | ふん / ぷん           | Fun / pun              | minute      |
+| １分        | いっぷん              | ippun                  | 1 minute    |
+| ２分        | にふん               | nifun                  | 2 minutes   |
+| ３分        | さんぷん              | sanpun                 | 3 minutes   |
+| ４分        | よんぷん              | yonpun                 | 4 minutes   |
+| ５分        | ごふん               | gofun                  | 5 minutes   |
+| ６分        | ろっぷん              | roppun                 | 6 minutes   |
+| ７分        | ななふん              | nanafun                | 7 minutes   |
+| ８分        | はっぷん              | happun                 | 8 minutes   |
+| ９分        | きゅうふん             | kyuufun                | 9 minutes   |
+| １０分       | じゅっぷん <br>じっぷん    | Juppun<br>jippun       | 10 minutes  |
+| ２０分       | にじゅっぷん<br>にじっぷん   | Nijuppun<br>nijippun   | 20 minutes  |
+| ３０分       | さんじゅっぷん<br>さんじっぷん | Sanjuppun<br>sanjippun | 30 minutes  |
+| ４０分       | よんじゅっぷん<br>よんじっぷん | Yonjippun<br>yonjuppun | 40 minutes  |
+| ５０分       | ごじゅっぷん<br>ごじっぷん   | Gojuppun<br>gojippun   | 50 minutes  |
 ### Seconds
 
-|   |   |   |   |
-|---|---|---|---|
-|**Kanji**|**Kana**|**Romaji**|**English**|
-|秒|びょう|byou|second|
-|１秒|いちびょう|ichi-byou|1 second|
-|２秒|にびょう|ni-byou|2 seconds|
-|３秒|さんびょう|san-byou|3 seconds|
-|４秒|よんびょう|yon-byou|4 seconds|
-|５秒|ごびょう|go-byou|5 seconds|
-|６秒|ろくびょう|roku-byou|6 seconds|
-|７秒|ななびょう|nana-byou|7 seconds|
-|８秒|はちびょう|hachi-byou|8 seconds|
-|９秒|きゅうびょう|kyuu-byou|9 seconds|
-|１０秒|じゅうびょう|juu-byou|10 seconds|
-|２０秒|にじゅうびょう|nijuu-byou|20 seconds|
-|３０秒|さんじゅうびょう|sanjuu-byou|30 seconds|
-|４０秒|よんじゅうびょう|yonjuu-byou|40 seconds|
-|５０秒|ごじゅうびょう|gojuu-byou|50 seconds|
+| **Kanji** | **Kana** | **Romaji**  | **English** |
+| --------- | -------- | ----------- | ----------- |
+| 秒         | びょう      | byou        | second      |
+| １秒        | いちびょう    | ichi-byou   | 1 second    |
+| ２秒        | にびょう     | ni-byou     | 2 seconds   |
+| ３秒        | さんびょう    | san-byou    | 3 seconds   |
+| ４秒        | よんびょう    | yon-byou    | 4 seconds   |
+| ５秒        | ごびょう     | go-byou     | 5 seconds   |
+| ６秒        | ろくびょう    | roku-byou   | 6 seconds   |
+| ７秒        | ななびょう    | nana-byou   | 7 seconds   |
+| ８秒        | はちびょう    | hachi-byou  | 8 seconds   |
+| ９秒        | きゅうびょう   | kyuu-byou   | 9 seconds   |
+| １０秒       | じゅうびょう   | juu-byou    | 10 seconds  |
+| ２０秒       | にじゅうびょう  | nijuu-byou  | 20 seconds  |
+| ３０秒       | さんじゅうびょう | sanjuu-byou | 30 seconds  |
+| ４０秒       | よんじゅうびょう | yonjuu-byou | 40 seconds  |
+| ５０秒       | ごじゅうびょう  | gojuu-byou  | 50 seconds  |
 
-Ways to write them combined can be found in ‘Time’ in ‘Grammar and Things to Know’ section.
-
- 
+Ways to write them combined can be found in[[#Grammar & Things to Know]]
 
 ## Family
-
 ### Immediate Family
 
 | **Kanji** | **Kana** | **Romaji** | **English**               |
@@ -337,90 +322,64 @@ Ways to write them combined can be found in ‘Time’ in ‘Grammar and Things 
 | 孫           | まご       | mago       | grandchild (humble)     |
 | 孫息子         | まごむすこ    | magomusuko | grandson (humble)       |
 | 孫娘          | まごむすめ    | magomusume | granddaughter (humble)  |
-
-Notes can be found in  ['Family Members' in 'Grammar and Things to Know' section.](#_Family_Mem "Click to see the related notes.") 
-
+Notes can be found in [[#Family Members]]
 ## Feelings
 
-| Kanji | Kana             | Romaji      | English                |
-| ----- | ---------------- | ----------- | ---------------------- |
-| 嬉しい   | うれしい             | ureshii     | happy                  |
-| 楽しい   | たのしい             | tanoshii    | enjoyable              |
-| 悲しい   | かなしい             | kanashii    | sad                    |
-| 寂しい   | さびしい             | sabishii    | lonely                 |
-|       | つまらない            | tsumaranai  | boring                 |
-|       | すっきりする           | sukkirisuru | refreshed              |
-|       | うらやましい           | urayamashii | jealous / envious      |
-|       | はずかしい            | hazukashii  | embarrassed / shy      |
-|       | しんぱい             | shinpai     | worry / anxious        |
-|       | ほっとする            | hottosuru   | relieved               |
-|       | なつかしい            | natsukashii | nostalgic              |
-|       | くるしい             | kurushii    | painful                |
-|       | くやしい             | kuyashii    | frustating (regretful) |
-|       | わくわく<br><br>ワクワク | wakuwaku    | exciting               |
-|       | ウキウキ<br><br>うきうき | ukiuki      | cheerful               |
-|       | ニコニコ<br><br>にこにこ | nikuniku    | smiling / happy        |
-|       | るんるん<br><br>ルンルン | runrun      | joyful                 |
-|       | ドキドキ<br><br>どきどき | dokidoki    | flustered / nervous    |
-|       | ハラハラ<br><br>はらはら | harahara    | anxious                |
-|       | シクシク<br><br>しくしく | shikushiku  | sobbing / crying       |
-|       | クヨクヨ<br><br>くよくよ | kuyokuyo    | worrying               |
-|       | イライラ<br><br>いらいら | iraira      | irritated              |
-|       | ムカムカ<br><br>むかむか | mukamuka    | upset / angry          |
-
- 
+| **Kanji** | **Kana**     | **Romaji**  | **English**            |
+| --------- | ------------ | ----------- | ---------------------- |
+| 嬉しい       | うれしい         | ureshii     | happy                  |
+| 楽しい       | たのしい         | tanoshii    | enjoyable              |
+| 悲しい       | かなしい         | kanashii    | sad                    |
+| 寂しい       | さびしい         | sabishii    | lonely                 |
+|           | つまらない        | tsumaranai  | boring                 |
+|           | すっきりする       | sukkirisuru | refreshed              |
+|           | うらやましい       | urayamashii | jealous / envious      |
+|           | はずかしい        | hazukashii  | embarrassed / shy      |
+|           | しんぱい         | shinpai     | worry / anxious        |
+|           | ほっとする        | hottosuru   | relieved               |
+|           | なつかしい        | natsukashii | nostalgic              |
+|           | くるしい         | kurushii    | painful                |
+|           | くやしい         | kuyashii    | frustating (regretful) |
+|           | わくわく<br>ワクワク | wakuwaku    | exciting               |
+|           | ウキウキ<br>うきうき | ukiuki      | cheerful               |
+|           | ニコニコ<br>にこにこ | nikuniku    | smiling / happy        |
+|           | るんるん<br>ルンルン | runrun      | joyful                 |
+|           | ドキドキ<br>どきどき | dokidoki    | flustered / nervous    |
+|           | ハラハラ<br>はらはら | harahara    | anxious                |
+|           | シクシク<br>しくしく | shikushiku  | sobbing / crying       |
+|           | クヨクヨ<br>くよくよ | kuyokuyo    | worrying               |
+|           | イライラ<br>いらいら | iraira      | irritated              |
+|           | ムカムカ<br>むかむか | mukamuka    | upset / angry          |
 
 # Grammar & Things to Know
 
 ## Numbers
 
 We can combine these to write numbers in japanese.
-
 Examples:-
-
-- 百 十 三 - 113 (100 + 10 + 3)
-    
-- 七百 二十 七 - 727 (7*100 + 2*10 + 7)
-    
-- 五万 三千 四百 六十 三 - 63,463 (6*10,000 + 3*1000 + 4*100 + 6*10 + 3)
-    
+- 百 十 三 - 113 ($100 + 10 + 3$)
+- 七百 二十 七 - 727 ($7*100 + 2*10 + 7$)
+- 五万 三千 四百 六十 三 - 63,463 ($6*10,000 + 3*1000 + 4*100 + 6*10 + 3$)
 
 Note: Japanese doesn’t use spaces in the words or sentences. The spaces were added for easier reading and learning.
 
 ## Family Members
 
 - In uncle and aunt, using 叔 indicates that he/she is younger, while using 伯 indicates he/she is older. Even if the words are different, the pronunciation is kept the same. In casual conversations and such, you can use the hiragana version without a problem unless you want to be precise.
-    
-- 叔父さん - younger uncle
-    
-- 伯父さん - older uncle
-    
-- 叔母さん - younger aunt
-    
-- 伯母さん - older aunt
-    
+	- 叔父さん - younger uncle
+	- 伯父さん - older uncle
+	- 叔母さん - younger aunt
+	- 伯母さん - older aunt
 - You should use honorific forms when you are talking directly to them and humble forms when introducing to someone. Also, if you referring to speaker’s someone, you should use honorific form. Examples below.
-    
-- Introducing your wife to someone:
-    
-- 奥さんです。 ☒ - Sounds odd; “okusan” is used for someone else’s wife.  
-    
-- 妻です。 ☑ - humble and formal, correct.
-    
-
- 
+	- Introducing your wife to someone:
+		- 奥さんです。 ☒ - Sounds odd; “okusan” is used for someone else’s wife.
+		- 妻です。 ☑ - humble and formal, correct.
 
 # References
 
 1. [https://www.japanesewithanime.com/2017/12/compound-kana.html](https://www.japanesewithanime.com/2017/12/compound-kana.html "https://www.japanesewithanime.com/2017/12/compound-kana.html")
-    
 2. [https://www.kanshudo.com/grammar/extended_katakana](https://www.kanshudo.com/grammar/extended_katakana "https://www.kanshudo.com/grammar/extended_katakana") 
-    
 3. [https://mochidemy.com/support/family-in-japanese/](https://mochidemy.com/support/family-in-japanese/ "https://mochidemy.com/support/family-in-japanese/")
-    
 4. [https://kanji123.org/blog/family-injapanese/](https://kanji123.org/blog/family-injapanese/ "https://kanji123.org/blog/family-injapanese/") 
-    
 5. [https://jpn-language.com/learn-japanese/feelings](https://jpn-language.com/learn-japanese/feelings "https://jpn-language.com/learn-japanese/feelings") 
-    
-
-- Font used - [https://github.com/ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font "https://github.com/ButTaiwan/genryu-font")
+- Font used in .docx - [https://github.com/ButTaiwan/genryu-font](https://github.com/ButTaiwan/genryu-font "https://github.com/ButTaiwan/genryu-font")
