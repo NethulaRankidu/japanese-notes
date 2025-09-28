@@ -26,14 +26,14 @@ Japanese (日本語 Nihongo) is the language spoken by about 125 million people,
 
 # Alphabets in 日本語
 There are 3 main alphabets in Japanese Language.
-1. Hiragana (ひらがな)
-- syllabary, used for grammar endings and native words. Example: たべる (taberu, to eat).
+1. **Hiragana (ひらがな)**
+- syllabary, used for grammar endings and native words. Example: *たべる* (taberu, to eat).
 
-2. Katakana (カタカナ) 
-- syllabary, used for foreign words, emphasis, sounds. Example: コンピュータ (konpyūta, computer)
+2. **Katakana (カタカナ)** 
+- syllabary, used for foreign words, emphasis, sounds. Example: *コンピュータ* (konpyūta, computer)
 
-3. Kanji (漢字)
-- characters borrowed from Chinese, carry meaning (e.g., 山 = mountain).
+3. **Kanji (漢字)**
+- characters borrowed from Chinese, carry meaning (e.g., *山* = mountain).
 
 These three alphabets are mixed together in day-to-day written communication in Japanese.
 (Hiragana and Katakana Alphabets will be shown in next pages)
@@ -43,7 +43,7 @@ These three alphabets are mixed together in day-to-day written communication in 
 ## Hiragana (ひらがな)
 ### Base characters
 
-| a      | i       | u       | e      | o      |
+| *a*      | *i*       | *u*       | *e*      | *o*      |
 | ------ | ------- | ------- | ------ | ------ |
 | あ (a)  | い (i)   | う (u)   | え (e)  | お (o)  |
 | か (ka) | き (ki)  | く (ku)  | け (ke) | こ (ko) |
@@ -61,7 +61,7 @@ These three alphabets are mixed together in day-to-day written communication in 
 - を is used as ‘o’ when used as a topic particle
 ### Dakuten characters
 
-| a      | i      | u      | e      | o      |
+| *a*      | *i*      | *u*      | *e*      | *o*      |
 | ------ | ------ | ------ | ------ | ------ |
 | が (ga) | ぎ (ga) | ぐ (gi) | げ (gu) | ご (go) |
 | ざ (za) | じ (ji) | ず (zu) | ぜ (ze) | ぞ (zo) |
@@ -72,12 +72,12 @@ These three alphabets are mixed together in day-to-day written communication in 
 - づ is typed out as du in computer IMEs
 ### Handakuten characters
 
-| a      | i      | u      | e      | o      |
+| *a*      | *i*      | *u*      | *e*      | *o*      |
 | ------ | ------ | ------ | ------ | ------ |
 | ぱ (pa) | ぴ (pi) | ぷ (pu) | ぺ (pe) | ぽ (po) |
 ### Compound characters
 
-| a        | u        | o        |
+| *a*        | *u*        | *o*        |
 | -------- | -------- | -------- |
 | きゃ (kya) | きゅ (kyu) | きょ (kyo) |
 | ぎゃ (gya) | ぎゅ (gyu) | ぎょ (gyo) |
@@ -105,7 +105,7 @@ Examples:-
 ## Katakana (カタカナ) 
 ### Base characters
 
-| a      | i       | u       | e      | o      |
+| *a*      | *i*       | *u*       | *e*      | *o*      |
 | ------ | ------- | ------- | ------ | ------ |
 | ア (a)  | イ (i)   | ウ (u)   | エ (e)  | オ (o)  |
 | カ (ka) | キ (ki)  | ク (ku)  | ケ (ke) | コ (ko) |
@@ -120,7 +120,7 @@ Examples:-
 | ン (n)  |         |         |        |        |
 ### Dakuten characters
 
-| a      | i      | u      | e      | o      |
+| *a*      | *i*      | *u*      | *e*      | *o*      |
 | ------ | ------ | ------ | ------ | ------ |
 | ガ (ga) | ガ (ga) | ギ (gi) | グ (gu) | ゴ (go) |
 | ザ (za) | ジ (ji) | ズ (zu) | ゼ (ze) | ゾ (zo) |
@@ -132,32 +132,32 @@ Examples:-
 
 ### Handakuten characters
 
-|        |        |        |        |        |
+| *a*      | *i*      | *u*      | *e*      | *o*      |
 | ------ | ------ | ------ | ------ | ------ |
 | パ (pa) | ピ (pi) | プ (pu) | ペ (pe) | ポ (po) |
 
 ### Compound characters
 
-|   |   |   |
-|---|---|---|
-|キャ (kya)|キュ (kyu)|キョ (kyo)|
-|ギャ (gya)|ギュ (gyu)|ギョ (gyo)|
-|シャ (sha)|シュ (shu)|ショ (sho)|
-|ジャ (ja)|ジュ (ju)|ジョ (jo)|
-|チャ (cha)|チュ (chu)|チョ (cho)|
-|ヂャ (dya)|ヂャ (dyu)|ヂョ (dyo)|
-|ニャ (nya)|ニュ (nyu)|ニョ (nyo)|
-|ヒャ (hya)|ヒウ (hyu)|ヒョ (hyo)|
-|ビャ (bya)|ビュ (byu)|ビョ (byo)|
-|ピャ (pya)|ピュ (pyu)|ピョ (pyo)|
-|ミャ (mya)|ミュ (myu)|ミョ (myo)|
-|リャ (rya)|リュ (ryu)|リョ (ryo)|
+| *a*        | *u*        | *o*        |
+| -------- | -------- | -------- |
+| キャ (kya) | キュ (kyu) | キョ (kyo) |
+| ギャ (gya) | ギュ (gyu) | ギョ (gyo) |
+| シャ (sha) | シュ (shu) | ショ (sho) |
+| ジャ (ja)  | ジュ (ju)  | ジョ (jo)  |
+| チャ (cha) | チュ (chu) | チョ (cho) |
+| ヂャ (dya) | ヂャ (dyu) | ヂョ (dyo) |
+| ニャ (nya) | ニュ (nyu) | ニョ (nyo) |
+| ヒャ (hya) | ヒウ (hyu) | ヒョ (hyo) |
+| ビャ (bya) | ビュ (byu) | ビョ (byo) |
+| ピャ (pya) | ピュ (pyu) | ピョ (pyo) |
+| ミャ (mya) | ミュ (myu) | ミョ (myo) |
+| リャ (rya) | リュ (ryu) | リョ (ryo) |
 #### _Things to consider:_
 - The ャ,ュ,ョ used here are smaller than their standard sized kana, which are ヤ,ユ,ヨ.
 
 ### Extended katakana
 
-| a        | i        | u       | e         | o        |
+| *a*        | *i*        | *u*       | *e*         | *o*        |
 | -------- | -------- | ------- | --------- | -------- |
 |          | イィ (yi)  |         | イェ (ye)   |          |
 | ウァ (wa)  | ウィ (wi)  | ウゥ (wu) | ウェ (we)   | ウォ (wo)  |
@@ -486,3 +486,5 @@ Note: Japanese doesn’t use spaces in the words or sentences. The spaces were a
 4. [https://kanji123.org/blog/family-injapanese/](https://kanji123.org/blog/family-injapanese/ "https://kanji123.org/blog/family-injapanese/") 
 5. [https://jpn-language.com/learn-japanese/feelings](https://jpn-language.com/learn-japanese/feelings "https://jpn-language.com/learn-japanese/feelings") 
 6. [https://90dayjapanese.com/colors-in-japanese/](https://90dayjapanese.com/colors-in-japanese/)
+
+Font used - Noto Sans CJK JP
